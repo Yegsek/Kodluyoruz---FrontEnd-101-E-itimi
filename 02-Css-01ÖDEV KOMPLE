@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: turquoise;
+        }
+        h1{
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+<h1 style="text: size 50px;"  > Bal Dükkanı </h1> 
+  
+
+
+<div style="text-align:center">
+<a href="baldükkanı.html"> Anasayfa</a>  / 
+<a href="baldükkanı1.html"> Ürünlerimiz</a>  / 
+<a href="baldükkanı2.html"> Hakkımızda </a>
+</div>
+<p style="text-align:center">Bal Dükkanı Sitemize Hoşgeldiniz. Bu sitede çeşit çeşit ballar bulabilirsiniz. <br>
+    Uygun fiyatlarla dogal balları buluşturuyoruz.
+</p>
+<div style="text-align:center"><h3> Sitemizde Bulunan Ürünler</h3>
+        <li>Çam Balı</li>
+        <li>Balarası</li>
+        <li>Petek Balı</li>    
+</div>
+
+
+</body>
+</html>
+
+
+/////--- iKİNCİ SAYFA ----////
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2{color: darkblue;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div style="text-align:center">
+        <a href="baldükkanı.html"> Anasayfa</a>  / 
+        <a href="baldükkanı1.html"> Ürünlerimiz</a>  / 
+        <a href="baldükkanı2.html"> Hakkımızda </a>
+        </div>
+<header>
+    <div style="text-align:center"> <h1 style="text: size adjust 30px;">Ürünlerimiz </h1>
+        <h2>Bal arısı</h2>
+        <img src="https://dogruhaber.com.tr/images/21/34/malatya-turgut-ozal-universitesinden-saf-bal-uretimi-6c212928.jpg" alt="balarısı"> 
+        <p style="text-align:center"> "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." </p>
+        <br>
+        <br>
+        <h2>Petek Balı</h2>
+        <img src="https://i.sozcu.com.tr/wp-content/uploads/2019/06/12/shutterstock_776462833.jpg">
+        <p style="text-align:center"> "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." </p>
+
+
+    </div>
+</header>
+
+
+</body>
+</html>
+
+
+
+
+
+////----3.SAYFA -----//////
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+
+    <div style="text-align:center">
+        <a href="baldükkanı.html"> Anasayfa</a>  / 
+        <a href="baldükkanı1.html"> Ürünlerimiz</a>  / 
+        <a href="baldükkanı2.html"> Hakkımızda </a>
+        </div>
+    <h2 style="text-align:center"> Vizyonumuz</h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris finibus quam in orci consequat gravida. Maecenas diam tellus, eleifend vitae arcu eget, viverra iaculis sapien. Donec aliquet, tortor ut volutpat euismod, tellus ligula fringilla nisi, consequat lacinia massa justo eu massa. Donec porttitor malesuada felis. In blandit in erat vitae hendrerit. Mauris eleifend mauris finibus varius pharetra. Suspendisse ut felis felis. Duis sed commodo libero, imperdiet rhoncus nunc. In bibendum felis non semper ultrices. In hac habitasse platea dictumst.
+
+        <br>Vestibulum id aliquam metus, at pretium justo. Sed suscipit lectus ut libero facilisis, eget pellentesque augue condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum tempus tempus risus vitae suscipit. Praesent purus lectus, lacinia et efficitur eget, tristique eu arcu. Phasellus accumsan sit amet purus nec porttitor. Aenean ac nisi ac lectus rhoncus tincidunt eget vitae est. Aliquam molestie in erat a hendrerit. Fusce bibendum ligula leo, et posuere nisi mollis nec. Ut blandit posuere rhoncus. Nunc et posuere felis. Maecenas in magna turpis.
+        
+        <br>Donec et sem varius, congue libero vitae, interdum purus. Fusce hendrerit est eu pretium ornare. Nunc fringilla justo metus, ac tristique orci pharetra eget. Morbi eget sollicitudin libero, vel fringilla neque. In in sagittis massa. Integer id commodo dolor. Nam bibendum dolor ut nibh feugiat tincidunt. Vivamus facilisis, lectus nec pellentesque bibendum, dui mauris efficitur ex, vitae porttitor enim nulla et massa. Sed et bibendum diam. Cras semper et diam a varius. Quisque ornare leo sollicitudin laoreet volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus euismod eu est non tempus. Quisque convallis malesuada libero quis lobortis.</p>
+    <h2 style="text-align:center"> Misyonumuz</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur ullamcorper neque et pellentesque. Nulla tellus tellus, porta quis leo eget, dapibus molestie ante. Proin mi justo, lobortis eu varius pharetra, vestibulum in lacus. Fusce lobortis finibus arcu vel pulvinar.<br>
+         Aenean pharetra ullamcorper interdum. Suspendisse pulvinar turpis lorem, et iaculis urna commodo in.</p>
+</body>
+</html>
+
