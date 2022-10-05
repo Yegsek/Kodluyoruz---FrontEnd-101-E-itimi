@@ -1,0 +1,49 @@
+<html>
+  <HEAD>
+    <title> Sekmede Görülecek İsim </title>
+    <meta name="Keywords" content="HTML,Kodluyoruz">
+  </HEAD> 
+  
+  <BODY>
+        <h1> 
+            Yusuf Enes Gök
+        </h1> 
+        <h2>
+            Hakkımda  
+        </h2>     
+            <p>This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam molestie luctus tortor, eget pellentesque ante. Sed eu lorem vitae est posuere maximus id sed erat. Pellentesque maximus pulvinar elit non tempor. Aliquam at lectus in neque imperdiet porta. Duis dignissim sodales nisi, a egestas quam. Curabitur volutpat condimentum mauris, facilisis pellentesque nunc. Donec rhoncus, massa vel porttitor bibendum, risus justo pulvinar nulla, sed blandit sem metus in tortor. Nam quis tincidunt ipsum, feugiat congue libero. Morbi vel elit diam. Integer euismod posuere velit sit amet hendrerit. Cras gravida dui metus, eget molestie lectus porttitor at. Fusce ullamcorper nisi nec ante malesuada, ut iaculis ligula elementum.<br> Mauris porttitor sem quis arcu sagittis, ac rhoncus felis pellentesque. In sem quam, egestas vel lectus eget, malesuada pretium ante. In hac habitasse platea dictumst.</p>
+        <h2>
+           İlgi Alanlarım 
+        </h2>
+        <h4> 1.Filmi </h4>  
+        <ol>
+            <li> <a href="index2.html"> Sayfaya Git </a> Recep İvedik 5</li>
+            <li> Recep İvedik 3</li>
+            
+            <li> Recep İvedik 4</li>
+        </ol>  
+        <h4> 2.Dizi </h4>  
+        <ol>
+            <li> Arka Sokaklar</li>
+            <li> Prison Break</li>
+            <li> Lost </li>
+        </ol>  
+        <h4> 3.Kitap </h4>  
+        <ol>
+            <li> Yerdeniz</li>
+            <li> Tutunamayanlar</li>
+            <li> Bir  delinin günlügü</li>
+        </ol>  
+        <h2>Sevdigim Diziler</h2>
+        <p> <strong>Lost</strong></p>
+        <img src="https://avatars.mds.yandex.net/i?id=99016117fea2623b2ba92147db006f16-4971670-images-thumbs&n=13"/> </img>
+
+        <p>This is another paragraph.</p>
+
+
+
+
+
+</BODY>
+  
+</html>
