@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            background-color: cornflowerblue;
+        }
+        div{
+            background-color: cornflowerblue;
+        }
+        li{
+            background-color: cornflowerblue;
+        }
+        header{
+            background-color:cornflowerblue;
+            text-emphasis-color: red;
+        }
+ 
+        footer{
+            text-size-adjust: 30;
+            text-align: end;
+
+        }
+    </style>
+
+</head>
+
+
+<body>
+<header>Çikolatalı Kek </header>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper egestas massa, vehicula vehicula nibh tempus quis. Aenean vehicula sollicitudin eros, ut tempor est sollicitudin non. Praesent nec dui non velit malesuada volutpat at ut erat. Quisque dolor ligula, blandit quis nisl et, molestie lobortis massa. Sed sit amet libero. </p>
+<h4> Detay Kısmı </h4>
+
+
+<div style="text-align:center"><p>Kaç Kişilik: 4 </p> </div>
+<div style="text-align:center"><p>Hazırlanma Süresi : 45 dk</p> </div>
+<div style="text-align:center"><p> Pişirme Süresi : 45 Dk </p> </div>
+<div style="text-align:center"><p>ÇiKOLATALI Kek Malzeme Listesi</p> 
+        <li style="text-align:center" >3 adet yumurta</li>
+        <li style="text-align:center">1 su bardağı şeker</li>
+        <li style="text-align:center">1 su bardağı süt</li>
+        <li style="text-align:center">1/2 su bardağı sıvı yağ</li>
+        <li style="text-align:center">2 su bardağı un</li>
+        <li style="text-align:center">1/2 su bardağı damla çikolata</li>
+        <li style="text-align:center">2 paket kabartma tozu</li>
+        <li style="text-align:center">1 paket vanilin</li>
+</div>
+<img src="https://yandex.com.tr/gorsel/search?text=çikolatalı%20kek&from=tabbar&pos=0&img_url=http%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2F7e%2Fd9%2F517ed99a68db395f620c6173b3841a48.jpg&rpt=simage&lr=103843"> </img>
+<div style="text-align:center"> ÇiKOLATALI Kek Tarifi</div>
+<p style="color:blue;">Fırını 170 dereceye ayarlayın.
+    Şekeri ve yumurtaları beş dakika kremamsı bir kıvama gelene dek çırpın.
+    Sütü da ilave edip bir dakika daha çırpın, ardından sıvı yağı ekleyip hafifçe karıştırın.
+    Unu, kabartma tozunu ve vanilyayı eleyin ve elenmiş olarak karışıma ilave edin.
+    Bu aşamadan sonra çırpma işlemi yapmadan spatula yardımıyla karıştırarak malzemeleri birbirine karıştırın.
+    Damla çikolataları en son ilave edin. Spatula yardımıyla topak kalmayacak şekilde karıştırın.
+    Kek kalıbını yağlayıp, unlayın.
+    Kek karışımını kalıba dökün ve ağzını açmadan 30-40 dakika pişirin. Daha sonra kürdan yardımıyla kontrol ederek pişirmeye devam edin. İşte bu kadar, afiyet olsun </p>
+
+
+<footer><p>Afiyet Olsun </p></footer>
+
+
+</body>
+</html>
